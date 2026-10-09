@@ -1,0 +1,19 @@
+# Local IDE and build output
+.vscode/
+.idea/
+*.user
+*.user.*
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key

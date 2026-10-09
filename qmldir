@@ -1,0 +1,51 @@
+module QiuYueUi
+# AppTheme 由各程序在启动时提供 所有界面共用同一个主题对象
+# Python 程序通过 QML 上下文属性提供 C++ 程序通过 QML 单例注册提供
+# 此文件不再注册 AppTheme 避免与程序提供的主题对象重复
+AppButton 1.0 standard/AppButton.qml
+AppDialog 1.0 standard/AppDialog.qml
+AppDivider 1.0 standard/AppDivider.qml
+AppPopup 1.0 standard/AppPopup.qml
+AppTitleBar 1.0 standard/AppTitleBar.qml
+ArrowButton 1.0 standard/ArrowButton.qml
+DateTimeFields 1.0 standard/DateTimeFields.qml
+DraggableSidebar 1.0 standard/DraggableSidebar.qml
+DropdownPopup 1.0 standard/DropdownPopup.qml
+EditorListPanel 1.0 standard/EditorListPanel.qml
+EditorTable 1.0 standard/EditorTable.qml
+ElidedLabel 1.0 standard/ElidedLabel.qml
+FocusDismissHandler 1.0 standard/FocusDismissHandler.qml
+FormRow 1.0 standard/FormRow.qml
+FramelessWindow 1.0 standard/FramelessWindow.qml
+IconButton 1.0 standard/IconButton.qml
+ModuleTabStrip 1.0 standard/ModuleTabStrip.qml
+NavigationButton 1.0 standard/NavigationButton.qml
+NavigationRail 1.0 standard/NavigationRail.qml
+NotificationCenter 1.0 standard/NotificationCenter.qml
+NotificationToast 1.0 standard/NotificationToast.qml
+PagedTable 1.0 standard/PagedTable.qml
+PaginationBar 1.0 standard/PaginationBar.qml
+PopupTransition 1.0 standard/PopupTransition.qml
+SectionHeader 1.0 standard/SectionHeader.qml
+SegmentedTabBar 1.0 standard/SegmentedTabBar.qml
+SettingsSection 1.0 standard/SettingsSection.qml
+SettingsTitle 1.0 standard/SettingsTitle.qml
+SortableTableHeader 1.0 standard/SortableTableHeader.qml
+StartupWindowBase 1.0 standard/StartupWindowBase.qml
+StyledCheckBox 1.0 standard/StyledCheckBox.qml
+StyledComboBox 1.0 standard/StyledComboBox.qml
+StyledSpinBox 1.0 standard/StyledSpinBox.qml
+StyledSwitch 1.0 standard/StyledSwitch.qml
+StyledTextField 1.0 standard/StyledTextField.qml
+ThemedScrollBar 1.0 standard/ThemedScrollBar.qml
+ThemedToolTip 1.0 standard/ThemedToolTip.qml
+VectorIcon 1.0 standard/VectorIcon.qml
+WaveChart 1.0 standard/WaveChart.qml
+WaveChartDialog 1.0 standard/WaveChartDialog.qml
+WaveChartLegend 1.0 standard/WaveChartLegend.qml
+WaveChartToolbar 1.0 standard/WaveChartToolbar.qml
+WaveImageExportDialog 1.0 standard/WaveImageExportDialog.qml
+WindowButton 1.0 standard/WindowButton.qml
+WindowIcon 1.0 standard/WindowIcon.qml
+DateTimeUtils 1.0 utils/DateTimeUtils.js
+AnalysisUtils 1.0 utils/AnalysisUtils.js
